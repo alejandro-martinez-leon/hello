@@ -11,6 +11,19 @@ class Person:
             The name of the person
         birthday : list[int]
         His birthday in (year, month, day)
+        
+        Note
+        ----
+        The FFT is a fast implementation of the discrete Fourier transform:
+
+        .. math:: X(e^{j\omega } ) = x(n)e^{ - j\omega n}
+
+        The discrete-time Fourier time-convolution property states that
+
+        .. math::
+
+            x(n) * y(n) \Leftrightarrow X(e^{j\omega } )Y(e^{j\omega } )
+
         """
         self.name = name
         self.birthday = datetime.date(*birthday)
