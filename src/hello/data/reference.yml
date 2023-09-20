@@ -1,0 +1,18 @@
+pepe:
+  name: Pepe
+  birthday:
+    - 2020
+    - 8
+    - 3
+karla:
+  name: Karla
+  birthday:
+    - 2023
+    - 9
+    - 21
+jose:
+  name: Jose
+  birthday:
+    - 2000
+    - 5
+    - 23
