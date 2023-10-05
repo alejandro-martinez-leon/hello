@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to hello's documentation!
+Welcome to Hello's documentation!
 ===================================
 .. include:: ../README.rst
 
@@ -13,6 +13,7 @@ Welcome to hello's documentation!
 
    source/installation
    source/citations
+   source/about_us
    source/CHANGELOG
 
 .. toctree::
