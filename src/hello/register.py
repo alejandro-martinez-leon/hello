@@ -10,7 +10,7 @@ class Person:
         name : str
             The name of the person
         birthday : list[int]
-        His birthday in (year, month, day)
+            His birthday in (year, month, day)
         
         Note
         ----
