@@ -7,7 +7,7 @@ hello
 Description
 -----------
 
-**hello**  is a python package build to learn how to make python package.
+**hello**  is a Python package built to learn how to make Python packages.
 
 
 Documentation

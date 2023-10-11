@@ -8,7 +8,7 @@ Currently, **hello** is just a small tutorial
 
 The idea
 --------
-Understand how to create a python module. It only have some small functionalities
+Understand how to create a Python module. It only has some small functionalities
 
 
 #. :meth:`hello.register.Person`
@@ -24,7 +24,7 @@ Also we can put in-line math expressions :math:`a = 2 + 2 \neq 5`
 Average functions
 -----------------
 
-We can also put some nice python code inside of the docs
+We can also put some nice Python code inside of the docs
 
 
 .. code-block:: python
