@@ -1,4 +1,6 @@
 from hello.register import Person
+
+
 def average_age(persons: list[Person]):
     """It prints the average age of the persons
 
@@ -6,7 +8,7 @@ def average_age(persons: list[Person]):
     ----------
     persons : list[Person]
         list of persons
-    
+
     Example
     -------
     .. ipython:: python

@@ -1,8 +1,9 @@
 import datetime
 
+
 class Person:
 
-    def __init__(self, name:str, birthday:list[int]) -> None:
+    def __init__(self, name: str, birthday: list[int]) -> None:
         """The constructor
 
         Parameters
@@ -11,7 +12,7 @@ class Person:
             The name of the person
         birthday : list[int]
             His birthday in (year, month, day)
-        
+
         Note
         ----
         The FFT is a fast implementation of the discrete Fourier transform:
@@ -34,6 +35,7 @@ class Person:
 
     def __repr__(self) -> str:
         return f"{self.__class__.__name__}(name = {self.name}, age = {self.age})"
+
 
 if __name__ == "__main__":
     print(Person('Pepe', (2020, 9, 9)))
